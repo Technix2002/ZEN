@@ -1,2 +1,2 @@
 # ZEN
-Zero Effort Networking - PowerShell | Posh-SSH | RANCID | Juniper | MPLS | VPLS | INET
+Zero Effort Networking - PowerShell | SSH | RANCID | Juniper | MPLS | VPLS | INET
